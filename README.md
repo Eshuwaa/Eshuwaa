@@ -5,11 +5,11 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 BCA student passionate about coding and creativity
-- 💡 I love building websites and content creation tools
-- 🎥 Content creator on **YouTube** | Editor & Designer on **Fiverr**
-- 💼 Learning & working on projects using:  
+### About Me
+- BCA student passionate about coding and creativity
+- I love building websites and content creation tools
+- Content creator on **YouTube** | Editor & Designer on **Fiverr**
+- Learning & working on projects using:  
   **HTML | CSS | JavaScript | Java | C# | PHP | XAMPP**
 
 ---
