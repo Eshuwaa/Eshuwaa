@@ -1,30 +1,93 @@
-<h1 align="center">Hi, I'm Eshuwaa 👋</h1>
+<h1 align="center">Hi, I'm Eshwar 👋</h1>
+
 <p align="center">
- • BCA Student • Graphics & Video Editor • Web Developer  
+Frontend Developer & UI/UX Designer  
+</p>
+
+<p align="center">
+Building user-focused web experiences with strong design sense and real-world project experience  
 </p>
 
 ---
 
-### About Me
-- BCA student passionate about coding and creativity
-- I love building websites and content creation tools
-- Content creator on **YouTube** | Editor & Designer on **Fiverr**
-- Learning & working on projects 
+<h1 align="center">Hi, I'm Eshwar 👋</h1>
+
+<p align="center">
+<strong>Frontend Developer & UI/UX Designer</strong><br/>
+Building user-focused web experiences with strong design sense  
+</p>
+
+<p align="center">
+🚀 5M+ Views • 🎬 300+ Videos • 💻 Multiple Web Projects
+</p>
 
 ---
 
-### Tech Stack
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+## 🚀 About Me
+
+* 💻 Frontend Developer focused on responsive and scalable UI
+* 🎨 UI/UX Designer creating clean and user-friendly interfaces
+* 🧠 Built full-stack and frontend applications with real-world use cases
+* 🎬 Creative background in video editing (300+ videos, 5M+ views)
+* 🚀 Continuously improving in modern web technologies
 
 ---
 
-### GitHub Stats
+## 🧰 Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript
+**Backend:** PHP
+**Database:** MySQL
+**Design:** Figma, Canva
+**Tools:** Git, GitHub
+
+---
+
+## 💼 Featured Projects
+
+### 🎬 MovieFlix – Movie Recommendation System
+
+* Full-stack web application for movie discovery and recommendations
+* Built with PHP, MySQL, and JavaScript
+* Focused on UI clarity and structured data handling
+  👉 *(Add GitHub Repo + Live Demo here)*
+
+---
+
+### 📊 Attendify – Student Management System
+
+* Attendance tracking system with clean dashboard UI
+* Efficient data handling and simple user experience
+  👉 *(Add GitHub Repo here)*
+
+---
+
+### ☕ Basneyt Brew – E-commerce Website
+
+* Complete e-commerce interface with product browsing and ordering flow
+* Designed full UI and frontend experience
+  👉 *(Add GitHub Repo here)*
+
+---
+
+### 🎥 Streaming Platform UI
+
+* Responsive streaming interface focused on navigation and usability
+  👉 *(Add Preview / Screenshots here)*
+
+---
+
+## 🎨 Creative Skills (Support)
+
+* 🎬 Video Editing: 300+ videos created using CapCut & DaVinci Resolve (5M+ views)
+* 🎮 Designed esports posters and promotional content for teams
+* 🖼️ Created 100+ thumbnails, logos, and social media graphics
+* 📺 YouTube creator (gaming montages, tutorials, engaging edits)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eshuwaa&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshuwaa&layout=compact&theme=tokyonight" width="48%"/>
@@ -32,8 +95,10 @@
 
 ---
 
-### Connect With Me
-[![YouTube](https://img.shields.io/badge/-YouTube-EA4335?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eshuwaa_yt)
-[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+## 🔗 Connect With Me
+
+* 🌐 Portfolio: https://eshuwaa-studio.lovable.app
+* 📺 YouTube: https://youtube.com/@eshuwaa_yt
+* 📧 Email: [eshuwaa77@gmail.com](mailto:eshuwaa77@gmail.com)
+
+---
