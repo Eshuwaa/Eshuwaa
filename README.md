@@ -69,9 +69,9 @@ Building user-focused web experiences with strong design sense
 ## 🎨 Creative Skills (Support)
 
 * 🎬 Video Editing: 300+ videos using CapCut & DaVinci Resolve (5M+ views)
-* 🎮 Designed esports posters and promotional content
+* 🎮 Designed posters for esports teams (Spy Wolves, Myth Nepal)
 * 🖼️ Created 100+ thumbnails, logos, and social media graphics
-* 📺 YouTube creator (gaming montages, tutorials, edits)
+* 📺 YouTube content creator (gaming montages, tutorials, edits)
 
 ---
 
