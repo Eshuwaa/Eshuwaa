@@ -1,24 +1,12 @@
 <h1 align="center">Hi, I'm Eshwar 👋</h1>
 
 <p align="center">
-Frontend Developer & UI/UX Designer  
-</p>
-
-<p align="center">
-Building user-focused web experiences with strong design sense and real-world project experience  
-</p>
-
----
-
-<h1 align="center">Hi, I'm Eshwar 👋</h1>
-
-<p align="center">
 <strong>Frontend Developer & UI/UX Designer</strong><br/>
-Building user-focused web experiences with strong design sense  
+Building user-focused web experiences with strong design sense
 </p>
 
 <p align="center">
-🚀 5M+ Views • 🎬 300+ Videos • 💻 Multiple Web Projects
+🚀 Built full-stack & frontend applications • 🎬 5M+ Views • 🎥 300+ Videos
 </p>
 
 ---
@@ -26,8 +14,8 @@ Building user-focused web experiences with strong design sense
 ## 🚀 About Me
 
 * 💻 Frontend Developer focused on responsive and scalable UI
-* 🎨 UI/UX Designer creating clean and user-friendly interfaces
-* 🧠 Built full-stack and frontend applications with real-world use cases
+* 🎨 UI/UX Designer creating clean and intuitive interfaces
+* 🧠 Built real-world full-stack and frontend projects
 * 🎬 Creative background in video editing (300+ videos, 5M+ views)
 * 🚀 Continuously improving in modern web technologies
 
@@ -35,11 +23,11 @@ Building user-focused web experiences with strong design sense
 
 ## 🧰 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript
+**Frontend:** HTML • CSS • JavaScript
 **Backend:** PHP
 **Database:** MySQL
-**Design:** Figma, Canva
-**Tools:** Git, GitHub
+**Design:** Figma • Canva
+**Tools:** Git • GitHub
 
 ---
 
@@ -47,42 +35,43 @@ Building user-focused web experiences with strong design sense
 
 ### 🎬 MovieFlix – Movie Recommendation System
 
-* Full-stack web application for movie discovery and recommendations
-* Built with PHP, MySQL, and JavaScript
+* Full-stack web app for movie discovery and recommendations
+* Built with PHP, MySQL, JavaScript
 * Focused on UI clarity and structured data handling
-  👉 *(Add GitHub Repo + Live Demo here)*
+  🔗 GitHub: *(add link)* | 🌐 Live Demo: *(add if available)*
 
 ---
 
 ### 📊 Attendify – Student Management System
 
 * Attendance tracking system with clean dashboard UI
-* Efficient data handling and simple user experience
-  👉 *(Add GitHub Repo here)*
+* Efficient data handling and user-friendly interface
+  🔗 GitHub: *(add link)*
 
 ---
 
 ### ☕ Basneyt Brew – E-commerce Website
 
-* Complete e-commerce interface with product browsing and ordering flow
+* E-commerce platform with smooth product browsing and ordering flow
 * Designed full UI and frontend experience
-  👉 *(Add GitHub Repo here)*
+  🔗 GitHub: *(add link)*
 
 ---
 
 ### 🎥 Streaming Platform UI
 
-* Responsive streaming interface focused on navigation and usability
-  👉 *(Add Preview / Screenshots here)*
+* Responsive UI focused on navigation and usability
+* Designed for clean layout and user experience
+  📸 Preview: *(add screenshots)*
 
 ---
 
 ## 🎨 Creative Skills (Support)
 
-* 🎬 Video Editing: 300+ videos created using CapCut & DaVinci Resolve (5M+ views)
-* 🎮 Designed esports posters and promotional content for teams
+* 🎬 Video Editing: 300+ videos using CapCut & DaVinci Resolve (5M+ views)
+* 🎮 Designed esports posters and promotional content
 * 🖼️ Created 100+ thumbnails, logos, and social media graphics
-* 📺 YouTube creator (gaming montages, tutorials, engaging edits)
+* 📺 YouTube creator (gaming montages, tutorials, edits)
 
 ---
 
