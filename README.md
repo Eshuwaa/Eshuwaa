@@ -66,7 +66,7 @@ Building user-focused web experiences with strong design sense
 
 ---
 
-## 🎨 Creative Skills (Support)
+## 🎨 Creative Skills 
 
 * 🎬 Video Editing: 300+ videos using CapCut & DaVinci Resolve (5M+ views)
 * 🎮 Designed posters for esports teams (Spy Wolves, Myth Nepal)
